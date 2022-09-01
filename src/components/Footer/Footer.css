@@ -1,0 +1,41 @@
+.footer {
+    position: absolute;
+    width: 1509px;
+    height: 400px;
+    background: #FEE59A;
+}
+
+.paddingtop7 {
+        padding-top: 50px;
+}
+
+    
+.container{
+        justify-content: space-around;
+        display: flex;
+        margin: 0 auto;
+}
+
+.bottomlist {
+        list-style: none;
+        list-style-type: none;
+        padding-right: 100px;
+}
+
+.last-text {
+        position: absolute;
+        width: 1160px;
+        height: 24px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+
+        color: #555454;
+        margin-top: 270px;
+        
+}
+

@@ -1,0 +1,58 @@
+.container {
+        justify-content: space-around;
+        display: flex;
+        margin: 0 auto;
+}
+
+
+.paddingtop6 {
+        padding-top: 50px;
+}
+
+
+
+.content {
+        width: 40%;
+}
+
+h1 {
+        font-style: none;
+        font-size: 40px;
+        line-height: 50px;
+}
+
+p {
+        font-style: none;
+        font-size: 20px;
+        line-height: 30px;
+}
+
+
+.information {
+        list-style: none;
+        
+}
+
+li {
+        margin-left: 50px;
+        
+}
+
+.nav-list {
+        font-weight: 20px;
+        font-size: 20px;
+}
+
+#button {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    background: #FDC212;
+    border-radius: 50px;
+    border: none;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 30px;
+}

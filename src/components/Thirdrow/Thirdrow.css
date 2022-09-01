@@ -1,0 +1,29 @@
+
+
+.container {
+        
+        justify-content: space-around;
+        display: flex;
+        margin: 0 auto;
+}
+
+.paddingtop2 {
+        padding-top: 50px;
+}
+
+.content {
+        width: 40%;
+}
+
+h1 {
+        font-style: none;
+        font-size: 40px;
+        line-height: 50px;
+}
+
+p {
+        font-style: none;
+        font-size: 20px;
+        line-height: 30px;
+}
+

@@ -1,0 +1,32 @@
+.fourthrow {
+    margin-top: 100px;
+}
+
+.textsize {
+        font-size: 25px;
+}
+
+.paddingtop3 {
+        padding-top: 10px;
+}
+
+.container {
+        display: flex;
+        justify-content: space-between;
+        margin: 0 auto;
+
+}
+    
+.boxes {
+    
+        justify-content: center;
+        align-items: center;
+        width: 261px;
+        height: 360px;
+        background: #F5F5F5;
+        border: solid 1px black;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+}
